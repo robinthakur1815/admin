@@ -51,9 +51,9 @@ class Accmgr {
        $queryFetch = 'SELECT count(*) as totalAcc from '.$this->table_master.' WHERE child_net_code !="" AND child_net_code IS NOT NULL AND manager_id = '.$this->manager_id.'';
        $row = $this->conn->prepare($queryFetch);
        $row->execute();
-      $stmt_result = $row->get_result();
-      $resp3 = $stmt_result->fetch_array(MYSQLI_ASSOC);
-      return $resp3; 
+       $stmt_result = $row->get_result();
+       $resp3 = $stmt_result->fetch_array(MYSQLI_ASSOC);
+       return $resp3; 
     }
 
     #get overview publisher top data for account manager

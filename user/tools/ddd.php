@@ -15,7 +15,7 @@ date_default_timezone_set('Asia/Kolkata');
 #for number format
 ini_set('serialize_precision', 10);
 
-SELECT * FROM `publishers_website` WHERE `pub_uniq_id` = 'ROHI_171117_151451'
+//SELECT * FROM `publishers_website` WHERE `pub_uniq_id` = 'ROHI_171117_151451'
 include_once '../../config/connection.php';
 include_once '../../objects/Common.php';
 include_once '../../objects/Accmgr.php';

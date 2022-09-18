@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 #Author BY AD
 require_once dirname(__FILE__).'/dompdf/lib/html5lib/Parser.php';
 require_once dirname(__FILE__).'/dompdf/src/Autoloader.php';
@@ -838,4 +838,4 @@ $bodymail .='
 	
 
 }
-?> -->
+?>

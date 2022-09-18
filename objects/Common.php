@@ -119,7 +119,7 @@ class Common{
       
       }
       public function getapi(){
-        $queryFetch= 'SELECT * FROM ' . $this->publisher_master . ' WHERE unid_id = "'.$this->sites.'"';
+        $queryFetch= 'SELECT * FROM ' . $this->thirdpartyapi . ' WHERE unid_id = "'.$this->sites.'"';
         #prepare query
         $row = $this->conn->prepare($queryFetch);
         #execute query 
