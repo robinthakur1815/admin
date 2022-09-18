@@ -1,0 +1,108 @@
+<?php
+#Author BY AD
+#error reporting
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(0);
+#required headers
+header("HTTP/1.1 200 OK");
+header("Access-Control-Allow-Origin: *");
+header("Content-Type: application/json; charset=UTF-8");
+header("Access-Control-Allow-Methods: POST");
+header("Access-Control-Max-Age: 3600");
+header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
+#Time Zone
+date_default_timezone_set('Asia/Kolkata');
+#include database and object files
+include_once '../../config/connection.php';
+include_once '../../objects/Common.php';
+include_once '../../objects/User.php';
+include_once '../../objects/ApiDocsPdf.php';
+
+#instantiate database and product object
+$database = new Database();
+$conn = $database->getConnection();
+$header = new Common($conn);
+$user = new User($conn);
+$pubInvoice = new ApiDocsPdf($conn);
+#get posted data
+$data = json_decode(file_get_contents("php://input"));
+$headers = apache_request_headers();
+preg_match('/Bearer\s(\S+)/', $headers['Authorization'], $matches);
+$token = $matches[1];
+   echo"$token";
+if(
+    // !empty($data->manager_id) &&
+    !empty($data->uniq_id)
+    // !empty($data->month) &&
+    // !empty($data->child_net_code)
+    
+){
+	#set token property values 
+    $header->access_token = trim($token);
+    $header->pub_uniq_id = $data->pub_uniq_id;
+    $result_fun = $header->verifyToken();
+    $stmt_result = $result_fun->get_result();
+    $rowPub = $stmt_result->fetch_array(MYSQLI_ASSOC);
+    $rows = $stmt_result->num_rows;
+	if($rows > 0){
+// 	    echo"robisfsvsn";
+// 	    $user->uniq_id = $data->uniq_id;
+//         $result_mngr = $user->getapidoc();
+//         $stmt_mngr = $result_mngr->get_result();
+//         $rowMngr = $stmt_mngr->fetch_array(MYSQLI_ASSOC);
+//         $user->uniq_id = $data->uniq_id;
+//         echo $result_pub = $user->checkApiDoc();
+//         //print_r($result_pub);die;
+//         $stmt_pub = $result_pub->get_result();
+//         // print_r($stmt_pub);die;
+//         $rowCheckApi = $stmt_pub->fetch_array(MYSQLI_ASSOC);
+//         // print_r($rowCheckApi);die;
+//         // $pdf->adx_for_display = $rowCheckApi['adx_for_display'];
+//         // $pdf->adx_for_video = $rowCheckApi['adx_for_video'];
+//         // $pdf->adx_for_app = $rowCheckApi['adx_for_app'];
+// 		#set manager,pub email property values
+//         $pubInvoice->adx_for_display = $rowCheckApi['adx_for_display'];
+//         $pubInvoice->adx_for_video = $rowCheckApi['adx_for_video'];
+//         $pubInvoice->adx_for_app = $rowCheckApi['adx_for_app'];
+// //         $pubInvoice->pub_email = $rowPub['pub_email'];
+// //         $pubInvoice->month = $data->month;
+// //         $pubInvoice->invoice_date = $data->invoice_date;
+// //         $pubInvoice->invoice_number = $data->invoice_number;
+// // 		$pubInvoice->uniq_id = $data->pub_uniq_id;
+		
+// // 		$pubInvoice->child_net_code = $data->child_net_code;
+// // 		$pubInvoice->month_year = $data->month;
+//     	//echo $pubInvoice->uniq_id = $data->pub_uniq_id;
+// 		echo $result_inv = $pubInvoice->getApiDocsPdf();
+		if(!empty($result_inv)){
+			#set response code - 200 ok
+			http_response_code(200);
+			
+			#tell the user
+			echo json_encode(array("message" => "Invoice download successfully.","status_code"=>200,"data"=>$result_inv));
+		}else{
+			#set response code - 503 service unavailable
+			http_response_code(503);
+	  
+			#tell the user
+			echo json_encode(array("message" => "Unable to download invoice.","status_code"=>503));
+		}
+	}else{
+		#set response code - 422 validation error
+        http_response_code(422);
+  
+        #tell the user
+        echo json_encode(array("message" => "Invalid token","status_code"=>422));
+	}
+}
+	 #tell the user data is incomplete
+else{
+  
+    #set response code - 400 bad request
+    http_response_code(400);
+  
+    #tell the user
+    echo json_encode(array("message" => "Unable to download invoice. Data is incomplete.","status_code"=>400));
+}
+?>

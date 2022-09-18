@@ -1,0 +1,166 @@
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Mobile,519433,329246,63.4,99.7,12.4,4.12,1359.44
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"28 Feb, 2022",89685,57532,64.1,99.8,139.1,3.65,210.25
+"27 Feb, 2022",69361,43813,63.2,99.7,149,4.41,193.31
+"26 Feb, 2022",65987,41093,62.3,99.7,128.5,4.57,188.02
+"25 Feb, 2022",63713,39545,62.1,99.5,823.3,4.08,161.68
+"24 Feb, 2022",64297,40151,62.4,99.6,165.7,4.53,182.13
+"23 Feb, 2022",74429,47854,64.3,99.8,134.7,3.96,189.86
+"1 Mar, 2022",91961,59258,64.4,99.8,458.2,3.95,234.19
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Mobile,CM_Tips_InApp_Technology_And_Computing_Zen_AppOpen,211865,145540,68.70,99.80,17.30,6.57,957.41
+Mobile,CM_Hi_Neighbor_In_App_Technology_And_Computing_AppOpen,32979,12308,37.30,99.90,21.50,6.34,78.09
+Mobile,CM_Tips_InApp_Technology_And_Computing_Zenex_AppOpen,23610,16445,69.70,99.80,19.10,4.07,67.07
+Mobile,CM_FFH4X_Mod_Menu_Fire_Hack_InApp_Technology_And_Computing_Zenex_Top,8345,5930,71.10,100.00,8.70,1.71,10.18
+Mobile,CM_Star_Plus_TV_Serials_Help_InApp_Technology_And_Computing_Zen_AppOpen,1795,692,38.60,99.90,23.60,6.22,4.31
+Mobile,CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_AppOpen,6264,3382,54.00,99.80,20.60,10.39,35.16
+Mobile,CM_FFH4X_Mod_Menu_Fire_Hack_InApp_Technology_And_Computing_Zenex_AppOpen,8879,2469,27.80,100.00,13.40,3.19,7.89
+Mobile,CM_Tips_InApp_Technology_And_Computing_Zenex_Interstitial,22330,12114,54.20,100.00,14.10,2.39,29.05
+Mobile,CM_Hi_Neighbor_In_App_Technology_And_Computing_Top,26201,8405,32.10,100.00,9.40,3.37,28.36
+Mobile,CM_FFH4X_Mod_Menu_Fire_Hack_InApp_Technology_And_Computing_Zenex_Native,8534,7872,92.20,100.00,2.70,1.00,7.94
+Mobile,CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_Interstitial,8266,5021,60.70,99.90,9.40,4.03,20.26
+Mobile,CM_Toca_Life_World_Stories_InApp_Technology_And_Computing_Zen_AppOpen,2370,755,31.90,99.80,25.00,5.97,4.51
+Mobile,CM_Hi_Neighbor_In_App_Technology_And_Computing_Native,19374,15839,81.80,99.80,3.80,1.34,21.36
+Mobile,CM_Toca_Life_World_Stories_InApp_Technology_And_Computing_Zen_Interstitial,2472,1511,61.10,100.00,7.90,3.09,4.68
+Mobile,CM_Tips_InApp_Technology_And_Computing_Zenex_Native,22127,19101,86.30,99.80,4.00,0.71,13.75
+Mobile,CM_Gas_Station_Simulator_InApp_Technology_And_Computing_Zen_AppOpen,3602,1252,34.80,99.80,26.00,3.13,3.93
+Mobile,CM_ML_Skin_Guide_InApp_Technology_And_Computing_Zen_AppOpen,15608,3912,25.10,100.00,20.00,3.10,12.13
+Mobile,CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_Native,8479,7554,89.10,99.80,3.60,1.35,10.23
+Mobile,CM_FFH4X_Mod_Menu_Fire_Hack_InApp_Technology_And_Computing_Zenex_Anchor,9451,7684,81.30,99.70,0.60,0.30,2.35
+Mobile,CM_Hi_Neighbor_In_App_Technology_And_Computing_Anchor,26065,15620,59.90,99.40,1.90,0.55,8.67
+Mobile,CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_Anchor,9211,7398,80.30,96.10,1.90,0.74,5.54
+Mobile,CM_Gas_Station_Simulator_InApp_Technology_And_Computing_Zen_Interstitial,2716,1065,39.20,100.00,8.50,1.37,1.46
+Mobile,CM_Tips_InApp_Technology_And_Computing_Zenex_Anchor,13494,10806,80.10,97.50,1.70,0.36,3.91
+Mobile,CM_Grand_City_Theft_InApp_Technology_And_Computing_Zen_AppOpen,2916,943,32.30,100.00,31.20,4.33,4.09
+Mobile,CM_Tips_1_InApp_Technology_And_Computing_Zen_AppOpen,4507,1261,28.00,99.70,20.90,2.94,3.71
+Mobile,CM_Tips_InApp_3_Technology_And_Computing_Zen_AppOpen,225,172,76.40,100.00,15.70,2.09,0.36
+Mobile,CM_Gas_Station_Simulator_InApp_Technology_And_Computing_Zen_Native,2111,1812,85.80,99.90,2.50,0.40,0.73
+Mobile,CM_Tips_InApp_3_Technology_And_Computing_Zen_Interstitial,218,142,65.10,100.00,9.20,1.97,0.28
+Mobile,CM_Toca_Life_World_Stories_InApp_Technology_And_Computing_Zen_Anchor,2734,1933,70.70,99.70,0.40,0.42,0.83
+Mobile,CM_Gas_Station_Simulator_InApp_Technology_And_Computing_Zen_Anchor,2406,1712,71.20,99.70,0.80,0.26,0.45
+Mobile,CM_Tips_InApp_3_Technology_And_Computing_Zen_Native,231,204,88.30,100.00,2.00,0.58,0.12
+Mobile,CM_Tips_InApp_3_Technology_And_Computing_Zen_Top,178,129,72.50,96.10,0.80,0.23,0.03
+Mobile,CM_MY11CIRCLE_In_App_Interstetial,256,190,74.20,99.60,11.10,8.89,1.69
+Mobile,CM_MY11CIRCLE_In_App_Native,376,339,90.20,100.00,5.00,5.72,1.94
+Mobile,CM_Colors_Rishtey_TV_Show_Info_InApp_Technology_And_Computing_Zen_Top,12,6,50.00,100.00,16.70,1.66,0.01
+Mobile,CM_Colors_Rishtey_TV_Show_Info_InApp_Technology_And_Computing_Zen_Native,11,9,81.80,100.00,11.10,1.11,0.01
+Mobile,CM_Colors_Rishtey_TV_Show_Info_InApp_Technology_And_Computing_Zen_AppOpen,11,6,54.50,100.00,33.30,1.66,0.01
+Mobile,CM_MY11CIRCLE_In_App_Anchor,265,236,89.10,100.00,0.00,0.63,0.15
+Mobile,CM_Colors_Rishtey_TV_Show_Info_InApp_Technology_And_Computing_Zen_Anchor,11,9,81.80,100.00,0.00,0.00,0.00
+Mobile,CM_MY11CIRCLE_In_App_App_Open,98,40,40.80,100.00,82.50,10.00,0.40
+Mobile,CM_Star_Plus_TV_Serials_Help_InApp_Technology_And_Computing_Zen_Native,2894,2608,90.10,100.00,2.30,0.40,1.05
+Mobile,CM_Star_Plus_TV_Serials_Help_InApp_Technology_And_Computing_Zen_Interstitial,2888,2271,78.60,100.00,8.50,2.02,4.61
+Mobile,CM_Star_Plus_TV_Serials_Help_InApp_Technology_And_Computing_Zen_Anchor,3036,2545,83.80,99.90,1.30,0.28,0.73
+Mobile,CM_BABA_In_App_Technology_And_Computing_Top,2,1,50.00,100.00,0.00,0.00,0.00
+Mobile,CM_BABA_In_App_Technology_And_Computing_AppOpen,1,0,0.00,100.00,0.00,0.00,0.00
+Mobile,CM_BABA_In_App_Technology_And_Computing_Anchor,4,3,75.00,100.00,0.00,0.00,0.00
+Mobile,CM_Voir_Films_HD_Apps_InApp_Technology_And_Computing_AppOpen,1,0,0.00,0.00,0.00,0.00,0.00
+Mobile,CM_Football_Live_Score_Tv_InApp_Technology_And_Computing_Zen_Interstitial,3,0,0.00,0.00,0.00,0.00,0.00
+Mobile,CM_Football_Live_Score_Tv_InApp_Technology_And_Computing_Zen_AppOpen,1,0,0.00,0.00,0.00,0.00,0.00
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Tablets,64352,38888,60.4,99.8,13.8,4.97,193.3
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"28 Feb, 2022",11277,7167,63.6,99.9,127.5,4.46,31.99
+"27 Feb, 2022",9587,5728,59.7,99.7,92.8,5.47,31.38
+"26 Feb, 2022",9371,5591,59.7,99.9,98.3,4.98,27.85
+"25 Feb, 2022",8607,4826,56.1,99.2,86.9,5.20,25.13
+"24 Feb, 2022",7377,4401,59.7,99.9,150.9,5.08,22.38
+"23 Feb, 2022",7482,4469,59.7,99.8,83.3,5.50,24.61
+"1 Mar, 2022",10651,6706,63.0,99.8,91.5,4.46,29.96
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Tablets,CM_Tips_InApp_Technology_And_Computing_Zen_AppOpen,19488,14011,71.90,99.90,21.10,7.54,105.65
+Tablets,CM_Hi_Neighbor_In_App_Technology_And_Computing_AppOpen,10314,4173,40.50,99.80,23.80,10.17,42.46
+Tablets,CM_Hi_Neighbor_In_App_Technology_And_Computing_Native,6576,5232,79.60,99.80,3.90,2.03,10.66
+Tablets,CM_Hi_Neighbor_In_App_Technology_And_Computing_Top,5317,1527,28.70,100.00,10.30,5.11,7.81
+Tablets,CM_Toca_Life_World_Stories_InApp_Technology_And_Computing_Zen_Interstitial,785,492,62.70,100.00,9.10,4.47,2.20
+Tablets,CM_Toca_Life_World_Stories_InApp_Technology_And_Computing_Zen_AppOpen,642,267,41.60,100.00,24.30,6.66,1.78
+Tablets,CM_Tips_InApp_Technology_And_Computing_Zenex_AppOpen,2257,1589,70.40,99.80,23.70,4.21,6.69
+Tablets,CM_FFH4X_Mod_Menu_Fire_Hack_InApp_Technology_And_Computing_Zenex_AppOpen,1024,333,32.50,100.00,14.70,3.06,1.02
+Tablets,CM_FFH4X_Mod_Menu_Fire_Hack_InApp_Technology_And_Computing_Zenex_Top,1120,796,71.10,100.00,6.90,1.26,1.01
+Tablets,CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_AppOpen,585,313,53.50,100.00,18.80,9.42,2.95
+Tablets,CM_FFH4X_Mod_Menu_Fire_Hack_InApp_Technology_And_Computing_Zenex_Native,1179,1096,93.00,100.00,2.20,0.83,0.91
+Tablets,CM_Hi_Neighbor_In_App_Technology_And_Computing_Anchor,5637,2882,51.10,99.60,1.40,0.78,2.27
+Tablets,CM_Gas_Station_Simulator_InApp_Technology_And_Computing_Zen_AppOpen,203,81,39.90,100.00,21.00,5.55,0.45
+Tablets,CM_Tips_InApp_Technology_And_Computing_Zenex_Interstitial,1550,780,50.30,100.00,11.90,2.05,1.60
+Tablets,CM_Tips_InApp_3_Technology_And_Computing_Zen_AppOpen,26,19,73.10,100.00,21.10,6.31,0.12
+Tablets,CM_Star_Plus_TV_Serials_Help_InApp_Technology_And_Computing_Zen_Interstitial,18,14,77.80,100.00,7.10,7.85,0.11
+Tablets,CM_Tips_InApp_Technology_And_Computing_Zenex_Native,2355,1999,84.90,99.80,3.30,0.65,1.30
+Tablets,CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_Interstitial,728,421,57.80,100.00,8.60,3.37,1.42
+Tablets,CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_Native,743,660,88.80,100.00,2.30,1.16,0.77
+Tablets,CM_Star_Plus_TV_Serials_Help_InApp_Technology_And_Computing_Zen_AppOpen,9,4,44.40,100.00,0.00,15.00,0.06
+Tablets,CM_Toca_Life_World_Stories_InApp_Technology_And_Computing_Zen_Anchor,531,346,65.20,99.20,1.40,0.46,0.16
+Tablets,CM_Grand_City_Theft_InApp_Technology_And_Computing_Zen_AppOpen,171,62,36.30,100.00,29.00,8.87,0.55
+Tablets,CM_FFH4X_Mod_Menu_Fire_Hack_InApp_Technology_And_Computing_Zenex_Anchor,479,369,77.00,99.80,0.80,0.18,0.07
+Tablets,CM_Tips_InApp_3_Technology_And_Computing_Zen_Interstitial,35,15,42.90,100.00,6.70,2.00,0.03
+Tablets,CM_Star_Plus_TV_Serials_Help_InApp_Technology_And_Computing_Zen_Native,22,21,95.50,100.00,0.00,1.42,0.03
+Tablets,CM_Tips_InApp_Technology_And_Computing_Zenex_Anchor,840,627,74.60,96.30,1.30,0.30,0.19
+Tablets,CM_Gas_Station_Simulator_InApp_Technology_And_Computing_Zen_Native,116,89,76.70,100.00,3.40,0.56,0.05
+Tablets,CM_Gas_Station_Simulator_InApp_Technology_And_Computing_Zen_Interstitial,143,40,28.00,100.00,7.50,1.50,0.06
+Tablets,CM_Star_Plus_TV_Serials_Help_InApp_Technology_And_Computing_Zen_Anchor,22,19,86.40,100.00,0.00,1.05,0.02
+Tablets,CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_Anchor,475,306,64.40,96.80,2.00,0.49,0.15
+Tablets,CM_Tips_1_InApp_Technology_And_Computing_Zen_AppOpen,360,117,32.50,100.00,15.40,3.67,0.43
+Tablets,CM_ML_Skin_Guide_InApp_Technology_And_Computing_Zen_AppOpen,471,117,24.80,100.00,22.20,2.56,0.30
+Tablets,CM_Tips_InApp_3_Technology_And_Computing_Zen_Native,25,17,68.00,100.00,0.00,0.58,0.01
+Tablets,CM_Football_Live_Score_Tv_InApp_Technology_And_Computing_Zen_Native,10,0,0.00,0.00,0.00,0.00,0.00
+Tablets,CM_Football_Live_Score_Tv_InApp_Technology_And_Computing_Zen_Interstitial,4,0,0.00,0.00,0.00,0.00,0.00
+Tablets,CM_Football_Live_Score_Tv_InApp_Technology_And_Computing_Zen_AppOpen,8,0,0.00,0.00,0.00,0.00,0.00
+Tablets,CM_Gas_Station_Simulator_InApp_Technology_And_Computing_Zen_Anchor,72,45,62.50,100.00,0.00,0.22,0.01
+Tablets,CM_Tips_InApp_3_Technology_And_Computing_Zen_Top,12,9,75.00,100.00,0.00,0.00,0.00
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"Connected TV",139,42,30.2,49.6,9.5,0.23,0.01
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"28 Feb, 2022",21,8,38.1,47.6,0,0.00,0
+"27 Feb, 2022",24,5,20.8,37.5,0,0.00,0
+"26 Feb, 2022",42,15,35.7,52.4,15,0.00,0
+"25 Feb, 2022",10,7,70.0,80.0,0,1.42,0.01
+"24 Feb, 2022",9,3,33.3,88.9,200,0.00,0
+"23 Feb, 2022",14,4,28.6,64.3,0,0.00,0
+"1 Mar, 2022",19,0,0.0,15.8,0,0,0
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"Connected TV",CM_Tips_InApp_Technology_And_Computing_Zenex_Native,6,5,83.30,100.00,0.00,0.00,0.00
+"Connected TV",CM_Tips_InApp_Technology_And_Computing_Zenex_Interstitial,4,3,75.00,100.00,0.00,0.00,0.00
+"Connected TV",CM_Tips_InApp_Technology_And_Computing_Zenex_AppOpen,5,0,0.00,0.00,0.00,0.00,0.00
+"Connected TV",CM_Tips_InApp_Technology_And_Computing_Zenex_Anchor,5,0,0.00,0.00,0.00,0.00,0.00
+"Connected TV",CM_Hi_Neighbor_In_App_Technology_And_Computing_Native,13,10,76.90,100.00,10.00,0.00,0.00
+"Connected TV",CM_Hi_Neighbor_In_App_Technology_And_Computing_Anchor,10,0,0.00,0.00,0.00,0.00,0.00
+"Connected TV",CM_Hi_Neighbor_In_App_Technology_And_Computing_Top,12,4,33.30,100.00,0.00,0.00,0.00
+"Connected TV",CM_Hi_Neighbor_In_App_Technology_And_Computing_AppOpen,12,0,0.00,16.70,0.00,0.00,0.00
+"Connected TV",CM_Voir_Films_HD_2_Tips_InApp_Technology_And_Computing_Zen_AppOpen,24,6,25.00,58.30,33.30,1.66,0.01
+"Connected TV",CM_Tips_InApp_Technology_And_Computing_Zen_AppOpen,48,14,29.20,37.50,7.10,0.00,0.00
+"
+","
+"
+"
+","
+"

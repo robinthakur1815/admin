@@ -1,0 +1,163 @@
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Mobile,515533,143852,245037,47.53,2.19,0.77,111.45
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"15 Aug, 2021",30616,17008,27549,89.98,26.26,0.81,13.77
+"14 Aug, 2021",32427,18956,30380,93.69,23.93,0.93,17.68
+"13 Aug, 2021",32509,18066,28830,88.68,24.98,0.62,11.12
+"12 Aug, 2021",31730,17212,27286,85.99,21.86,0.55,9.4
+"11 Aug, 2021",50097,22414,41408,82.66,24.06,0.68,15.31
+"10 Aug, 2021",45868,20540,37737,82.27,26.87,0.57,11.81
+"09 Aug, 2021",264260,20796,37449,14.17,41.65,0.67,13.92
+"08 Aug, 2021",11417,4125,6642,58.18,21.1,1.82,7.5
+"07 Aug, 2021",8945,3494,5676,63.45,8.18,2.06,7.19
+"06 Aug, 2021",4367,876,1488,34.07,13.03,2.56,2.24
+"05 Aug, 2021",3297,365,592,17.96,12.99,4.14,1.51
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Mobile,CM_Samsung_galaxy__InApp_Technology_and_Computing_interstitial,10186,3671,10186,100.00,7.08,3.98,14.60
+Mobile,CM_Samsung_galaxy__InApp_Technology_and_Computing_Native,9635,5793,9617,99.81,1.57,1.08,6.26
+Mobile,CM_Live_Football_Tv_InApp_Sports_interstitial,9921,2558,9900,99.79,9.42,6.76,17.29
+Mobile,CM_Live_Football_Tv_InApp_Sports_Native,7423,5207,7410,99.82,6.16,2.78,14.46
+Mobile,CM_Live_Football_Tv_InApp_Sports_Standard_Banner,10060,8981,9993,99.33,2.22,0.94,8.43
+Mobile,CM_Camera_For_Ipho_InApp_Technology_and_Computing_interstitial,23911,9952,23898,99.95,5.25,1.32,13.12
+Mobile,CM_Birthday_Video__InApp_Arts_and_Entertainment_interstitial,2807,2020,2807,100.00,0.94,0.48,0.97
+Mobile,CM_Samsung_galaxy__InApp_Technology_and_Computing_Standard_Banner,2751,2068,2723,98.98,2.22,0.50,1.04
+Mobile,CM_X_Video_Player_InApp_Arts_and_Entertainment_interstitial,3717,879,3631,97.69,16.72,5.94,5.22
+Mobile,CM_X_Video_Player_InApp_Arts_and_Entertainment_Native,3510,2727,3509,99.97,5.98,1.65,4.49
+Mobile,CM_Birthday_Video__InApp_Arts_and_Entertainment_Native,2369,1805,2358,99.54,0.66,0.19,0.34
+Mobile,CM_X_Video_Player_InApp_Arts_and_Entertainment_Standard_Banner,3025,2319,3015,99.67,4.01,1.06,2.45
+Mobile,CM_Birthday_Video__InApp_Arts_and_Entertainment_Standard_Banner,4642,3307,4567,98.38,0.12,0.08,0.28
+Mobile,CM_Camera_For_Ipho_InApp_Technology_and_Computing_Standard_Banner,14887,10987,14679,98.60,2.45,0.33,3.59
+Mobile,CM_Sky_Photo_Edito_InApp_Style_and_Fashion_Native,6056,4388,6048,99.87,0.82,0.22,0.96
+Mobile,CM_Sky_Photo_Edito_InApp_Style_and_Fashion_interstitial,10974,6817,10970,99.96,1.60,0.47,3.22
+Mobile,CM_Radhe_Krisna_Vi_InApp_Religion_and_Spirituality_Standard_Banner,13658,12077,13629,99.79,0.51,0.10,1.24
+Mobile,CM_Attitude_Video__InApp_Arts_and_Entertainment_Standard_Banner,10254,5462,8005,78.07,0.18,0.11,0.59
+Mobile,CM_Attitude_Video__InApp_Arts_and_Entertainment_Native,38249,15113,20120,52.60,0.12,0.05,0.76
+Mobile,CM_Attitude_Video__InApp_Arts_and_Entertainment_interstitial,14630,9268,14156,96.76,0.50,0.14,1.32
+Mobile,CM_Click_Assistant_InApp_Technology_and_Computing_Standard_Banner,10571,3100,10528,99.59,0.68,0.24,0.73
+Mobile,CM_Click_Assistant_InApp_Technology_and_Computing_Native,5213,2942,5189,99.54,0.95,0.26,0.76
+Mobile,CM_Click_Assistant_InApp_Technology_and_Computing_interstitial,11628,1113,11623,99.96,3.32,0.77,0.86
+Mobile,CM_X_HD_Video_Play_InApp_Arts_and_Entertainment_Standard_Banner,252,188,247,98.02,0.00,3.09,0.58
+Mobile,CM_X_HD_Video_Play_InApp_Arts_and_Entertainment_Native,221,145,220,99.55,1.38,7.86,1.14
+Mobile,CM_X_HD_Video_Play_InApp_Arts_and_Entertainment_interstitial,229,56,220,96.07,32.14,18.21,1.02
+Mobile,CM_Superstatusbar_InApp_Technology_and_Computing_Standard_Banner,6518,0,0,0.00,0.00,0.00,0.00
+Mobile,CM_Sky_Photo_Edito_InApp_Style_and_Fashion_Standard_Banner,11206,7622,10707,95.55,0.89,0.15,1.12
+Mobile,CM_Sister_Video_St_InApp_Arts_and_Entertainment_Standard_Banner,2151,1145,1805,83.91,0.35,0.11,0.13
+Mobile,CM_Sister_Video_St_InApp_Arts_and_Entertainment_Native,5281,2373,3689,69.85,0.34,0.05,0.11
+Mobile,CM_Sister_Video_St_InApp_Arts_and_Entertainment_interstitial,3173,1087,3088,97.32,1.01,0.21,0.23
+Mobile,CM_Radhe_Krisna_Vi_InApp_Religion_and_Spirituality_Native,2975,1977,2975,100.00,7.08,0.60,1.19
+Mobile,CM_Radhe_Krisna_Vi_InApp_Religion_and_Spirituality_interstitial,6445,2881,6444,99.98,3.64,0.63,1.81
+Mobile,CM_Perfect_Marriag_InApp_Family_and_Relationships_Standard_Banner,2037,1547,2031,99.71,0.32,0.09,0.14
+Mobile,CM_Perfect_Marriag_InApp_Family_and_Relationships_interstitial,2751,752,2751,100.00,2.79,0.37,0.28
+Mobile,CM_Icon_Changer_InApp_Technology_and_Computing_Standard_Banner,1312,757,1012,77.13,0.92,0.21,0.16
+Mobile,CM_Icon_Changer_InApp_Technology_and_Computing_Native,683,358,532,77.89,0.84,0.53,0.19
+Mobile,CM_Icon_Changer_InApp_Technology_and_Computing_interstitial,219649,407,742,0.34,2.21,0.88,0.36
+Mobile,CM_Superstatusbar_InApp_Technology_and_Computing_Native,5276,0,0,0.00,0.00,0.00,0.00
+Mobile,CM_Superstatusbar_InApp_Technology_and_Computing_Interstitial,15297,3,13,0.08,0.00,3.33,0.01
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Tablets,39380,2483,5770,14.65,1.93,1.89,4.7
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"15 Aug, 2021",603,302,472,78.28,10.67,1.99,0.6
+"14 Aug, 2021",449,265,443,98.66,41.89,2.30,0.61
+"13 Aug, 2021",528,252,414,78.41,1.72,1.67,0.42
+"12 Aug, 2021",268,109,219,81.72,29.37,1.01,0.11
+"11 Aug, 2021",1634,414,1286,78.70,11.58,0.82,0.34
+"10 Aug, 2021",1644,365,1270,77.25,22.82,0.68,0.25
+"09 Aug, 2021",31986,354,959,3.00,4.24,0.71,0.25
+"08 Aug, 2021",1166,173,304,26.07,4.08,5.03,0.87
+"07 Aug, 2021",543,136,229,42.17,8.8,4.49,0.61
+"06 Aug, 2021",369,88,134,36.31,4.8,5.11,0.45
+"05 Aug, 2021",190,25,40,21.05,4,7.60,0.19
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Tablets,CM_Live_Football_Tv_InApp_Sports_Native,423,318,423,100.00,3.46,4.09,1.30
+Tablets,CM_Birthday_Video__InApp_Arts_and_Entertainment_interstitial,22,20,22,100.00,0.00,1.00,0.02
+Tablets,CM_Live_Football_Tv_InApp_Sports_Standard_Banner,426,399,426,100.00,0.50,1.28,0.51
+Tablets,CM_Perfect_Marriag_InApp_Family_and_Relationships_Standard_Banner,13,11,13,100.00,0.00,0.00,0.00
+Tablets,CM_Perfect_Marriag_InApp_Family_and_Relationships_interstitial,19,6,19,100.00,0.00,0.00,0.00
+Tablets,CM_Birthday_Video__InApp_Arts_and_Entertainment_Native,9,9,9,100.00,0.00,1.11,0.01
+Tablets,CM_X_HD_Video_Play_InApp_Arts_and_Entertainment_Standard_Banner,4,1,4,100.00,0.00,0.00,0.00
+Tablets,CM_X_HD_Video_Play_InApp_Arts_and_Entertainment_Native,3,1,3,100.00,0.00,0.00,0.00
+Tablets,CM_X_HD_Video_Play_InApp_Arts_and_Entertainment_interstitial,2,0,2,100.00,0.00,0.00,0.00
+Tablets,CM_Live_Football_Tv_InApp_Sports_interstitial,507,138,507,100.00,11.59,15.36,2.12
+Tablets,CM_Birthday_Video__InApp_Arts_and_Entertainment_Standard_Banner,27,23,27,100.00,0.00,0.00,0.00
+Tablets,CM_Sister_Video_St_InApp_Arts_and_Entertainment_Standard_Banner,20,10,19,95.00,10.00,0.00,0.00
+Tablets,CM_Sister_Video_St_InApp_Arts_and_Entertainment_Native,22,10,20,90.91,0.00,0.00,0.00
+Tablets,CM_Sister_Video_St_InApp_Arts_and_Entertainment_interstitial,25,5,25,100.00,0.00,0.00,0.00
+Tablets,CM_Samsung_galaxy__InApp_Technology_and_Computing_Standard_Banner,14,8,13,92.86,0.00,0.00,0.00
+Tablets,CM_X_Video_Player_InApp_Arts_and_Entertainment_Standard_Banner,23,7,23,100.00,14.29,1.43,0.01
+Tablets,CM_X_Video_Player_InApp_Arts_and_Entertainment_Native,29,11,29,100.00,9.09,1.82,0.02
+Tablets,CM_Superstatusbar_InApp_Technology_and_Computing_Standard_Banner,538,0,0,0.00,0.00,0.00,0.00
+Tablets,CM_Sky_Photo_Edito_InApp_Style_and_Fashion_Standard_Banner,68,36,68,100.00,5.56,0.56,0.02
+Tablets,CM_Sky_Photo_Edito_InApp_Style_and_Fashion_Native,62,30,62,100.00,0.00,0.67,0.02
+Tablets,CM_Sky_Photo_Edito_InApp_Style_and_Fashion_interstitial,67,38,67,100.00,0.00,2.11,0.08
+Tablets,CM_Samsung_galaxy__InApp_Technology_and_Computing_Native,77,55,77,100.00,0.00,0.91,0.05
+Tablets,CM_Samsung_galaxy__InApp_Technology_and_Computing_interstitial,89,35,89,100.00,11.43,1.71,0.06
+Tablets,CM_Radhe_Krisna_Vi_InApp_Religion_and_Spirituality_Standard_Banner,69,52,69,100.00,0.00,0.00,0.00
+Tablets,CM_Radhe_Krisna_Vi_InApp_Religion_and_Spirituality_Native,24,10,24,100.00,0.00,0.00,0.00
+Tablets,CM_Radhe_Krisna_Vi_InApp_Religion_and_Spirituality_interstitial,62,18,62,100.00,0.00,0.56,0.01
+Tablets,CM_Camera_For_Ipho_InApp_Technology_and_Computing_Standard_Banner,240,163,228,95.00,0.00,0.18,0.03
+Tablets,CM_Attitude_Video__InApp_Arts_and_Entertainment_Standard_Banner,63,42,50,79.37,0.00,0.00,0.00
+Tablets,CM_Attitude_Video__InApp_Arts_and_Entertainment_Native,452,98,112,24.78,0.00,0.00,0.00
+Tablets,CM_Attitude_Video__InApp_Arts_and_Entertainment_interstitial,133,95,129,96.99,0.00,0.00,0.00
+Tablets,CM_X_Video_Player_InApp_Arts_and_Entertainment_interstitial,38,2,38,100.00,0.00,5.00,0.01
+Tablets,CM_Icon_Changer_InApp_Technology_and_Computing_Standard_Banner,123,52,74,60.16,0.00,0.00,0.00
+Tablets,CM_Icon_Changer_InApp_Technology_and_Computing_Native,62,24,39,62.90,4.17,0.42,0.01
+Tablets,CM_Icon_Changer_InApp_Technology_and_Computing_interstitial,31097,32,56,0.18,0.00,0.94,0.03
+Tablets,CM_Click_Assistant_InApp_Technology_and_Computing_Standard_Banner,1021,285,1004,98.33,0.35,0.25,0.07
+Tablets,CM_Click_Assistant_InApp_Technology_and_Computing_Native,460,193,454,98.70,1.04,0.41,0.08
+Tablets,CM_Click_Assistant_InApp_Technology_and_Computing_interstitial,1106,91,1095,99.01,3.30,0.88,0.08
+Tablets,CM_Camera_For_Ipho_InApp_Technology_and_Computing_interstitial,385,154,385,100.00,1.95,0.97,0.15
+Tablets,CM_Superstatusbar_InApp_Technology_and_Computing_Native,283,0,0,0.00,0.00,0.00,0.00
+Tablets,CM_Superstatusbar_InApp_Technology_and_Computing_Interstitial,1273,1,4,0.31,0.00,10.00,0.01
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"Connected TV",19,8,18,94.74,0.00,0.00,0
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"13 Aug, 2021",1,1,1,100.00,0,0.00,0
+"12 Aug, 2021",4,1,4,100.00,0,0.00,0
+"11 Aug, 2021",2,2,2,100.00,0,0.00,0
+"10 Aug, 2021",5,0,4,80.00,0,0,0
+"09 Aug, 2021",2,0,2,100.00,0,0,0
+"08 Aug, 2021",1,0,1,100.00,0,0,0
+"07 Aug, 2021",1,1,1,100.00,0,0.00,0
+"06 Aug, 2021",3,3,3,100.00,0,0.00,0
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"Connected TV",CM_X_Video_Player_InApp_Arts_and_Entertainment_interstitial,7,1,7,100.00,0.00,0.00,0.00
+"Connected TV",CM_Samsung_galaxy__InApp_Technology_and_Computing_Standard_Banner,1,0,0,0.00,0.00,0.00,0.00
+"Connected TV",CM_Live_Football_Tv_InApp_Sports_Native,1,1,1,100.00,0.00,0.00,0.00
+"Connected TV",CM_Live_Football_Tv_InApp_Sports_Standard_Banner,2,2,2,100.00,0.00,0.00,0.00
+"Connected TV",CM_Live_Football_Tv_InApp_Sports_interstitial,8,4,8,100.00,0.00,0.00,0.00
+"
+","
+"
+"
+","
+"

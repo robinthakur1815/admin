@@ -1,0 +1,143 @@
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Mobile,30494,19113,28160,92.35,0.47,2.28,43.62
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"10 Aug, 2021",7928,5804,7276,91.78,2.67,4.23,24.53
+"09 Aug, 2021",3193,1843,2913,91.23,0.22,1.33,2.46
+"08 Aug, 2021",4128,2363,3823,92.61,0.21,1.32,3.12
+"07 Aug, 2021",4420,2588,4128,93.39,0.35,1.24,3.21
+"06 Aug, 2021",3024,1761,2763,91.37,0.94,1.47,2.58
+"05 Aug, 2021",2720,1582,2516,92.50,0.13,1.72,2.72
+"04 Aug, 2021",2570,1477,2368,92.14,0.34,1.58,2.33
+"03 Aug, 2021",1989,1209,1858,93.41,0.17,1.61,1.95
+"02 Aug, 2021",282,263,280,99.29,0.76,1.22,0.32
+"01 Aug, 2021",240,223,235,97.92,0,1.79,0.4
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Mobile,CM_iptvplayers.com_Technology_and_Computing_ATF_responsive_LB,1020,973,1010,99.02,2.36,8.20,7.98
+Mobile,CM_iptvplayers.com_Technology_and_Computing_BTF_fixed_EOC_300x250,1030,973,1022,99.22,1.34,8.01,7.79
+Mobile,CM_iptvplayers.com_Technology_and_Computing_BTF_responsive_WC1,1024,942,1014,99.02,1.17,2.92,2.75
+Mobile,CM_iptvplayers.com_Technology_and_Computing_BTF_responsive_WC5,1022,943,1012,99.02,0.21,2.68,2.53
+Mobile,CM_iptvplayers.com_Technology_and_Computing_ATF_responsive_BC,1012,926,1003,99.11,0.65,2.56,2.37
+Mobile,CM_iptvplayerguide.com_Technology_and_Computing_BTF_fixed_EOC_300x250,13535,12276,13318,98.40,0.26,1.49,18.25
+Mobile,CM_vpnforfiresticktv.com_Technology_and_Computing_BTF_fixed_EOC_300x250,1815,1659,1793,98.79,0.06,0.75,1.25
+Mobile,CM_rokutvstick.com_vdo_Technology_and_Computing_PRE_OUTSTREAM_Skippable,490,2,133,27.14,0.00,0.00,0.00
+Mobile,CM_vpnforfiresticktv.com_Technology_and_Computing_ATF_responsive,2083,417,1894,90.93,0.48,1.68,0.70
+Mobile,CM_iptvplayerguide.com_Technology_and_Computing_ATF_responsive_BC,7463,2,5961,79.87,0.00,0.00,0.00
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Desktop,10551,6646,9789,92.78,0.24,1.57,10.41
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"10 Aug, 2021",2684,2056,2509,93.48,1.28,1.90,3.9
+"09 Aug, 2021",1216,695,1132,93.09,2.62,1.51,1.05
+"08 Aug, 2021",1290,768,1213,94.03,0,1.32,1.01
+"07 Aug, 2021",1366,758,1282,93.85,0.26,1.39,1.05
+"06 Aug, 2021",1035,572,937,90.53,0.17,1.33,0.76
+"05 Aug, 2021",910,522,841,92.42,0,1.44,0.75
+"04 Aug, 2021",1046,594,939,89.77,0,1.58,0.94
+"03 Aug, 2021",806,495,746,92.56,0.2,1.41,0.7
+"02 Aug, 2021",131,123,125,95.42,0,1.14,0.14
+"01 Aug, 2021",67,63,65,97.01,0,1.75,0.11
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Desktop,CM_iptvplayers.com_Technology_and_Computing_ATF_responsive_LB,293,280,287,97.95,0.71,3.39,0.95
+Desktop,CM_iptvplayers.com_Technology_and_Computing_BTF_fixed_EOC_300x250,330,316,323,97.88,1.90,2.97,0.94
+Desktop,CM_iptvplayers.com_Technology_and_Computing_BTF_responsive_WC1,299,288,294,98.33,0.35,1.94,0.56
+Desktop,CM_iptvplayers.com_Technology_and_Computing_BTF_responsive_WC5,297,282,291,97.98,0.00,1.70,0.48
+Desktop,CM_iptvplayers.com_Technology_and_Computing_ATF_responsive_BC,290,275,284,97.93,0.36,1.60,0.44
+Desktop,CM_iptvplayerguide.com_Technology_and_Computing_BTF_fixed_EOC_300x250,4783,4482,4665,97.53,0.11,1.42,6.37
+Desktop,CM_vpnforfiresticktv.com_Technology_and_Computing_BTF_fixed_EOC_300x250,475,431,440,92.63,0.23,0.93,0.40
+Desktop,CM_rokutvstick.com_vdo_Technology_and_Computing_PRE_OUTSTREAM_Skippable,142,139,140,98.59,0.00,0.43,0.06
+Desktop,CM_vpnforfiresticktv.com_Technology_and_Computing_ATF_responsive,527,153,477,90.51,0.00,1.37,0.21
+Desktop,CM_iptvplayerguide.com_Technology_and_Computing_ATF_responsive_BC,3115,0,2588,83.08,0.00,0.00,0.00
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Tablets,1922,1137,1761,91.62,0.44,1.37,1.56
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"10 Aug, 2021",409,322,391,95.60,1.64,2.48,0.8
+"09 Aug, 2021",283,144,258,91.17,0,0.97,0.14
+"08 Aug, 2021",234,129,221,94.44,0,1.01,0.13
+"07 Aug, 2021",232,133,218,93.97,0,0.68,0.09
+"06 Aug, 2021",166,90,148,89.16,0,1.00,0.09
+"05 Aug, 2021",212,113,203,95.75,0,0.97,0.11
+"04 Aug, 2021",264,125,208,78.79,0.8,1.28,0.16
+"03 Aug, 2021",93,52,85,91.40,0,0.58,0.03
+"02 Aug, 2021",17,17,17,100.00,0,0.00,0
+"01 Aug, 2021",12,12,12,100.00,0,0.83,0.01
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Tablets,CM_iptvplayers.com_Technology_and_Computing_BTF_fixed_EOC_300x250,74,71,74,100.00,4.23,4.37,0.31
+Tablets,CM_iptvplayers.com_Technology_and_Computing_ATF_responsive_LB,43,43,43,100.00,2.33,4.65,0.20
+Tablets,CM_iptvplayers.com_Technology_and_Computing_BTF_responsive_WC1,43,41,43,100.00,0.00,1.71,0.07
+Tablets,CM_iptvplayers.com_Technology_and_Computing_BTF_responsive_WC5,43,41,43,100.00,0.00,1.46,0.06
+Tablets,CM_iptvplayers.com_Technology_and_Computing_ATF_responsive_BC,42,40,42,100.00,0.00,1.25,0.05
+Tablets,CM_rokutvstick.com_vdo_Technology_and_Computing_PRE_OUTSTREAM_Skippable,21,19,21,100.00,0.00,1.58,0.03
+Tablets,CM_iptvplayerguide.com_Technology_and_Computing_BTF_fixed_EOC_300x250,887,771,854,96.28,0.13,1.01,0.78
+Tablets,CM_iptvplayerguide.com_Technology_and_Computing_ATF_responsive_BC,580,0,471,81.21,0.00,0.00,0.00
+Tablets,CM_vpnforfiresticktv.com_Technology_and_Computing_BTF_fixed_EOC_300x250,104,89,96,92.31,0.00,0.56,0.05
+Tablets,CM_vpnforfiresticktv.com_Technology_and_Computing_ATF_responsive,85,22,74,87.06,0.00,0.45,0.01
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"Connected TV",1307,801,1148,87.83,0.87,1.36,1.09
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"10 Aug, 2021",455,359,434,95.38,3.03,2.28,0.82
+"09 Aug, 2021",94,52,73,77.66,0,0.58,0.03
+"08 Aug, 2021",174,95,149,85.63,0,0.42,0.04
+"07 Aug, 2021",168,90,144,85.71,1.11,0.56,0.05
+"06 Aug, 2021",85,44,76,89.41,0,0.68,0.03
+"05 Aug, 2021",135,56,101,74.81,0,0.54,0.03
+"04 Aug, 2021",87,39,77,88.51,0,0.77,0.03
+"03 Aug, 2021",76,45,67,88.16,0,0.89,0.04
+"02 Aug, 2021",16,12,14,87.50,0,0.83,0.01
+"01 Aug, 2021",17,9,13,76.47,0,1.11,0.01
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"Connected TV",CM_iptvplayers.com_Technology_and_Computing_ATF_responsive_LB,70,64,70,100.00,3.13,6.72,0.43
+"Connected TV",CM_iptvplayers.com_Technology_and_Computing_BTF_fixed_EOC_300x250,73,66,73,100.00,6.06,2.27,0.15
+"Connected TV",CM_iptvplayers.com_Technology_and_Computing_BTF_responsive_WC1,69,62,68,98.55,0.00,1.45,0.09
+"Connected TV",CM_iptvplayers.com_Technology_and_Computing_BTF_responsive_WC5,69,60,67,97.10,0.00,1.17,0.07
+"Connected TV",CM_iptvplayers.com_Technology_and_Computing_ATF_responsive_BC,68,60,67,98.53,0.00,1.17,0.07
+"Connected TV",CM_iptvplayerguide.com_Technology_and_Computing_BTF_fixed_EOC_300x250,439,365,410,93.39,0.27,0.63,0.23
+"Connected TV",CM_vpnforfiresticktv.com_Technology_and_Computing_ATF_responsive,156,19,107,68.59,0.00,1.05,0.02
+"Connected TV",CM_iptvplayerguide.com_Technology_and_Computing_ATF_responsive_BC,215,0,172,80.00,0.00,0.00,0.00
+"Connected TV",CM_vpnforfiresticktv.com_Technology_and_Computing_BTF_fixed_EOC_300x250,148,105,114,77.03,0.00,0.29,0.03
+"
+","
+"
+"
+","
+"

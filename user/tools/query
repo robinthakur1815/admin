@@ -1,0 +1,97 @@
+SELECT * FROM `publisher_master` WHERE `mcm_status` = 'approved' AND `sal_id` = '9'
+$queryFetch= 'SELECT pub_uniq_id,child_net_code ,mcm_status FROM '.$this->table_pub.' WHERE sal_id  = "'.$this->id.'" and mcm_status ="APPROVED" and child_net_code != "null"';
+     
+SELECT SUM(mcm_domainwise_report.mcm_earnings) FROM publisher_master
+     INNER JOIN mcm_domainwise_report ON 
+     publisher_master.child_net_code = mcm_domainwise_report.child_net_code 
+     WHERE sal_id  = "1" and mcm_status ="APPROVED" and child_net_code != "null"
+
+
+SELECT SUM(mcm_domainwise_report.mcm_earnings)
+ FROM publisher_master INNER JOIN mcm_domainwise_report ON 
+ publisher_master.child_net_code = mcm_domainwise_report.child_net_code 
+ WHERE `created_at` BETWEEN '2020-09-13' AND '2022-01-13' AND `sal_id`='1'AND `mcm_status` = 'approved'
+
+
+SELECT `pub_uniq_id`,`child_net_code` FROM `publisher_master` WHERE `mcm_status` = 'approved' AND `sal_id` = '9'
+
+SELECT publisher_master.sal_id,publisher_master.pub_uniq_id, publisher_master.child_net_code,
+ mcm_domainwise_report.mcm_earnings , mcm_domainwise_report.ad_domain_date
+ FROM publisher_master INNER JOIN mcm_domainwise_report ON 
+ publisher_master.child_net_code = mcm_domainwise_report.child_net_code 
+ WHERE `mcm_status` = 'approved' AND `sal_id` = '1'
+
+ SELECT SUM(mcm_domainwise_report.mcm_earnings) FROM publisher_master 
+ INNER JOIN mcm_domainwise_report ON 
+ publisher_master.child_net_code = mcm_domainwise_report.child_net_code
+  WHERE `mcm_status` = 'approved' AND `sal_id` = '1'
+
+
+  'SELECT SUM(mcm_domainwise_report.mcm_earnings) 
+     FROM  .$this->table_pub. INNER JOIN mcm_domainwise_report ON 
+     publisher_master.child_net_code = mcm_domainwise_report.child_net_code  WHERE sal_id = "'.$this->id.'"' and 'mcm_status = "approved"';
+-- SELECT `pub_uniq_id`,`child_net_code` FROM `publisher_master`
+-- JOIN `mcm_domainwise_report` ON publisher_master.child_net_code = mcm_domainwise_report.child_net_code
+$queryFetch= 'SELECT * FROM ' .$this->table_pub. ' WHERE sal_id = "'.$this->id.'"' and 'mcm_status = "1"';
+
+ Where`ad_domain_date` BETWEEN '2022-02-13' AND '2022-01-13'
+
+
+SELECT bdr.child_net_code,psm.adx_p_name, usd.chan_name, psm.manager_id, psm.sal_id, ROUND(bdr.revenue,2)
+ as gross_adx_mcm, bdr.net as net_adx_mcm FROM ( SELECT mcru.child_net_code, SUM(mcru.mcm_cnc_revenue) as revenue,
+  ROUND(((SUM(mcru.mcm_cnc_revenue)*15)/100),2) as net FROM `mcm_childnetcode_report` as mcru where mcru.date 
+  between '".$this->strtdate."' and '".$this->enddate."'   GROUP BY mcru.child_net_code ) 
+  bdr INNER JOIN ( select pm.pub_uniq_id, pm.child_net_code, pm.manager_id,pm.sal_id,pm.channel_id, pm.network_flag,
+   CONCAT(IFNULL(pm.pub_fname, ''),' ',IFNULL(pm.pub_lname, '')) as adx_p_name from publisher_master as pm ) 
+   psm ON psm.child_net_code = bdr.child_net_code INNER JOIN ( select ud.channel_id,ud.chan_name from sales_channel as ud )
+    usd ON usd.channel_id = psm.channel_id WHERE psm.child_net_code!='' and psm.sal_id=".$this->id."";
+    
+
+    --  $response = $this->conn->prepare("SELECT site_name, sum(mcm_clicks) 
+    -- // as clicks, sum(mcm_adreq) as adr, sum(mcm_matchreq) as madr, sum(mcm_impression)
+    -- // as adimr, ROUND(SUM(mcm_earnings), 2) as revenue FROM `mcm_domainwise_report` WHERE 
+    -- // `child_net_code` LIKE '".$childNetwork."' AND mcm_earnings!=0 AND 
+    -- // (ad_domain_date BETWEEN '".$strtdate."' AND '".$enddate."') GROUP by site_name");
+
+    	$response = $this->conn->prepare
+        ("SELECT site_name, sum(mcm_clicks) as clicks, sum(mcm_adreq) 
+        as adr, sum(mcm_matchreq) as madr, sum(mcm_impression) 
+        as adimr, ROUND(SUM(mcm_earnings), 2) as revenue FROM `mcm_domainwise_report`
+         WHERE `child_net_code` LIKE '".$childNetwork."'
+          AND mcm_earnings!=0 AND (ad_domain_date BETWEEN '".$strtdate."' AND '".$enddate."') 
+          GROUP by site_name");
+			
+
+            SELECT * FROM `publishers_website` WHERE `pub_uniq_id` = 'ROHI_171117_151451' AND join `publishers_master`AND join `publishers_app`
+
+SELECT publishers_website.web_name AS publishers_domin,
+       publishers_app.app_name AS publishers_name,
+       publishers_app.app_id AS publishers_app_id,
+       publishers_app.app_type AS publishers_app_type
+       publisher_master.sal_id AS sals_id
+  FROM publishers_website JOIN publishers_app JOIN publisher_master
+   WHERE `pub_uniq_id` = 'ROHI_171117_151451'
+ ORDER BY 1
+
+
+ SELECT publishers_website.web_name ,
+       publishers_app.app_name ,
+       publishers_app.app_id ,
+       publishers_app.app_type ,
+       publisher_master.sal_id 
+  FROM publishers_website 
+  JOIN publishers_app JOIN publisher_master
+
+SELECT publishers_website.web_name, publishers_app.app_name, publishers_app.app_id, publishers_app.app_type, publisher_master.sal_id
+FROM publisher_master
+INNER JOIN publisher_master ON publisher_master.pub_uniq_id = publishers_website.pub_uniq_id
+INNER JOIN publishers_app ON publisher_master.publishers_app = publishers_app.pub_uniq_id
+#fetch insentive data
+public function getiIncentive_Pay(){
+echo $queryEdit1alluser=  'SELECT sal_id FROM ' . $this->table_pub . ' WHERE pub_uniq_id = "'.$this->uniq_id.'"';
+	#prepare query
+	$edit_rowalluser = $this->conn->prepare($queryEdit1alluser);
+	#execute query 
+	$edit_rowalluser->execute();
+	return $edit_rowalluser;
+}

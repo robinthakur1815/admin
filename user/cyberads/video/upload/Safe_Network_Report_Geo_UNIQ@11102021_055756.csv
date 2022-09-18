@@ -1,0 +1,262 @@
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"United States",6728,5231,77.75,94.04,1.68,5.19,27.13
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",722,592,81.99,99.31,5.82,5.03,2.98
+"16 Aug, 2021",843,709,84.10,99.76,2.96,5.15,3.65
+"15 Aug, 2021",1059,886,83.66,99.34,5.14,5.18,4.59
+"14 Aug, 2021",1364,1145,83.94,99.19,7.46,5.62,6.43
+"13 Aug, 2021",830,688,82.89,98.80,3.08,5.03,3.46
+"12 Aug, 2021",712,606,85.11,99.16,11.13,5.56,3.37
+"11 Aug, 2021",592,465,78.55,96.79,5.76,5.53,2.57
+"10 Aug, 2021",606,140,23.10,43.73,0,0.57,0.08
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"United States","Connected TV",7,6,85.71,,0.00,6.67,0.04
+"United States",Tablets,233,202,86.70,,3.47,4.06,0.82
+"United States",Desktop,1144,1049,91.70,,0.48,6.85,7.19
+"United States",Mobile,5344,3974,74.36,,1.91,4.80,19.08
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"United Kingdom",194,154,79.38,96.39,0.65,4.42,0.68
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",27,21,77.78,100.00,0,4.29,0.09
+"16 Aug, 2021",26,19,73.08,100.00,10.82,4.21,0.08
+"15 Aug, 2021",38,32,84.21,100.00,0,6.88,0.22
+"14 Aug, 2021",49,42,85.71,100.00,0,3.33,0.14
+"13 Aug, 2021",27,24,88.89,100.00,0,4.17,0.1
+"12 Aug, 2021",6,5,83.33,100.00,0,4.00,0.02
+"11 Aug, 2021",15,10,66.67,86.67,0,3.00,0.03
+"10 Aug, 2021",6,1,16.67,16.67,0,0.00,0
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"United Kingdom","Connected TV",2,2,100.00,,0.00,5.00,0.01
+"United Kingdom",Tablets,17,14,82.35,,0.00,5.00,0.07
+"United Kingdom",Mobile,109,81,74.31,,1.23,2.96,0.24
+"United Kingdom",Desktop,66,57,86.36,,0.00,6.32,0.36
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Canada,184,146,79.35,96.20,1.37,3.29,0.48
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",28,22,78.57,100.00,0,5.00,0.11
+"16 Aug, 2021",28,22,78.57,100.00,0,3.64,0.08
+"15 Aug, 2021",28,24,85.71,100.00,30.36,2.92,0.07
+"14 Aug, 2021",32,29,90.63,100.00,0,3.10,0.09
+"13 Aug, 2021",35,28,80.00,100.00,0,2.86,0.08
+"12 Aug, 2021",10,8,80.00,100.00,0,5.00,0.04
+"11 Aug, 2021",9,9,100.00,100.00,0,1.11,0.01
+"10 Aug, 2021",14,4,28.57,50.00,0,0.00,0
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Canada,Tablets,9,8,88.89,,0.00,2.50,0.02
+Canada,Mobile,103,76,73.79,,2.63,2.63,0.20
+Canada,Desktop,72,62,86.11,,0.00,4.19,0.26
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+India,816,628,76.96,97.06,0.48,0.48,0.3
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",151,117,77.48,96.69,2.56,0.51,0.06
+"16 Aug, 2021",139,101,72.66,94.96,0,0.59,0.06
+"15 Aug, 2021",168,134,79.76,97.62,2.3,0.60,0.08
+"14 Aug, 2021",208,163,78.37,96.63,1.22,0.43,0.07
+"13 Aug, 2021",116,90,77.59,100.00,0,0.33,0.03
+"12 Aug, 2021",11,7,63.64,100.00,0,0.00,0
+"11 Aug, 2021",8,6,75.00,100.00,0,0.00,0
+"10 Aug, 2021",15,10,66.67,93.33,0,0.00,0
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+India,Tablets,3,1,33.33,,0.00,0.00,0.00
+India,"Connected TV",16,13,81.25,,0.00,0.00,0.00
+India,Mobile,220,154,70.00,,1.95,0.45,0.07
+India,Desktop,577,460,79.72,,0.00,0.50,0.23
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Australia,43,38,88.37,100.00,0.00,4.21,0.16
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",7,6,85.71,100.00,0,5.00,0.03
+"16 Aug, 2021",14,14,100.00,100.00,0,4.29,0.06
+"15 Aug, 2021",7,6,85.71,100.00,0,5.00,0.03
+"14 Aug, 2021",6,6,100.00,100.00,0,5.00,0.03
+"13 Aug, 2021",6,4,66.67,100.00,0,2.50,0.01
+"11 Aug, 2021",3,2,66.67,100.00,0,0.00,0
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Australia,Tablets,1,1,100.00,,0.00,0.00,0.00
+Australia,Mobile,15,13,86.67,,0.00,3.85,0.05
+Australia,Desktop,27,24,88.89,,0.00,4.58,0.11
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Germany,56,44,78.57,96.43,0.00,3.64,0.16
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",14,12,85.71,100.00,0,2.50,0.03
+"16 Aug, 2021",13,8,61.54,84.62,0,3.75,0.03
+"15 Aug, 2021",17,15,88.24,100.00,0,3.33,0.05
+"14 Aug, 2021",6,4,66.67,100.00,0,5.00,0.02
+"13 Aug, 2021",5,4,80.00,100.00,0,5.00,0.02
+"12 Aug, 2021",1,1,100.00,100.00,0,10.00,0.01
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Germany,"Connected TV",3,2,66.67,,0.00,5.00,0.01
+Germany,Mobile,17,11,64.71,,0.00,1.82,0.02
+Germany,Tablets,4,3,75.00,,0.00,6.67,0.02
+Germany,Desktop,32,28,87.50,,0.00,3.93,0.11
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"South Africa",120,88,73.33,100.00,1.14,1.82,0.16
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",17,10,58.82,100.00,0,4.00,0.04
+"16 Aug, 2021",23,16,69.57,100.00,12.92,1.88,0.03
+"15 Aug, 2021",34,21,61.76,100.00,0,1.43,0.03
+"14 Aug, 2021",31,28,90.32,100.00,0,1.43,0.04
+"13 Aug, 2021",15,13,86.67,100.00,0,1.54,0.02
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"South Africa","Connected TV",4,1,25.00,,0.00,0.00,0.00
+"South Africa",Tablets,1,1,100.00,,0.00,0.00,0.00
+"South Africa",Mobile,16,8,50.00,,0.00,1.25,0.01
+"South Africa",Desktop,99,78,78.79,,1.28,1.92,0.15
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Netherlands,40,34,85.00,97.50,0.00,3.24,0.11
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",9,6,66.67,88.89,0,5.00,0.03
+"16 Aug, 2021",9,7,77.78,100.00,0,2.86,0.02
+"15 Aug, 2021",4,4,100.00,100.00,0,2.50,0.01
+"14 Aug, 2021",13,12,92.31,100.00,0,2.50,0.03
+"13 Aug, 2021",5,5,100.00,100.00,0,4.00,0.02
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Netherlands,"Connected TV",1,1,100.00,,0.00,0.00,0.00
+Netherlands,Tablets,2,1,50.00,,0.00,0.00,0.00
+Netherlands,Mobile,3,3,100.00,,0.00,3.33,0.01
+Netherlands,Desktop,34,29,85.29,,0.00,3.45,0.10
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Indonesia,197,135,68.53,98.98,0.00,0.74,0.1
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",51,39,76.47,96.08,0,0.51,0.02
+"16 Aug, 2021",24,18,75.00,100.00,0,0.56,0.01
+"15 Aug, 2021",40,30,75.00,100.00,0,1.00,0.03
+"14 Aug, 2021",42,20,47.62,100.00,0,1.00,0.02
+"13 Aug, 2021",40,28,70.00,100.00,0,0.71,0.02
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Indonesia,Tablets,1,1,100.00,,0.00,0.00,0.00
+Indonesia,Mobile,43,25,58.14,,0.00,0.00,0.00
+Indonesia,Desktop,153,109,71.24,,0.00,0.92,0.10
+"
+","
+"
+"
+","
+"
+--Country--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Philippines,158,114,72.15,100.00,0.00,0.88,0.1
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+"17 Aug, 2021",43,32,74.42,100.00,0,0.63,0.02
+"16 Aug, 2021",23,16,69.57,100.00,0,1.88,0.03
+"15 Aug, 2021",31,24,77.42,100.00,0,0.83,0.02
+"14 Aug, 2021",32,23,71.88,100.00,0,0.43,0.01
+"13 Aug, 2021",27,18,66.67,100.00,0,1.11,0.02
+"12 Aug, 2021",2,1,50.00,100.00,0,0.00,0
+"
+","
+"
+--Country--,--Device--,"--Ad Requests--","--Ad Impressions--","--Fill Rate--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Earnings--"
+Philippines,"Connected TV",1,1,100.00,,0.00,0.00,0.00
+Philippines,Tablets,5,0,0.00,,0.00,0.00,0.00
+Philippines,Mobile,44,30,68.18,,0.00,1.00,0.03
+Philippines,Desktop,108,83,76.85,,0.00,0.84,0.07
+"
+","
+"
+"
+","
+"

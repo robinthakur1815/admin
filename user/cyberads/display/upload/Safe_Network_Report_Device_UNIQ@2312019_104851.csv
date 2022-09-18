@@ -1,0 +1,149 @@
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Mobile,13085747,8356060,12537973,95.81,1.14,0.24,2005.73
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"10 Aug, 2021",1647116,1002549,1572472,95.47,7.06,0.22,216.61
+"09 Aug, 2021",1217244,746541,1156059,94.97,8.8,0.23,168.57
+"08 Aug, 2021",1469547,968330,1415451,96.32,7.09,0.23,220.62
+"07 Aug, 2021",1213427,802582,1175819,96.90,7.65,0.25,202.36
+"06 Aug, 2021",1176919,776790,1137571,96.66,7.68,0.27,210.32
+"05 Aug, 2021",1256851,830107,1221300,97.17,7.71,0.26,218.12
+"04 Aug, 2021",1370648,896803,1321674,96.43,6.99,0.24,218.96
+"03 Aug, 2021",1334281,860839,1279895,95.92,7.05,0.22,193.55
+"02 Aug, 2021",1244645,777747,1173610,94.29,7.27,0.24,189.21
+"01 Aug, 2021",1155069,693772,1084122,93.86,7.09,0.24,167.41
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Mobile,CM_gbwa.xyz_Technology_and_Computing_BTF_multisize_MBRS,2786086,1932446,2719729,97.62,1.46,0.29,567.73
+Mobile,CM_gbwa.xyz_Technology_and_Computing_ATF_responsive,2127659,1414755,2055319,96.60,1.95,0.42,589.40
+Mobile,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC2,2127556,1327160,1995035,93.77,0.85,0.16,213.46
+Mobile,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC1,2127505,1001953,2028889,95.36,0.85,0.16,159.32
+Mobile,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC3,2127439,1292316,2024402,95.16,0.77,0.15,191.08
+Mobile,CM_hindisahayta.in_Education_BTF_multisize_MBRS,872249,798852,846456,97.04,0.53,0.13,101.59
+Mobile,CM_hindisahayta.in_Education_ATF_responsive,243634,210402,235928,96.84,1.27,0.45,94.40
+Mobile,CM_hindisahayta.in_Education_BTF_responsive_WC1,243648,209878,236967,97.26,0.93,0.35,74.03
+Mobile,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC4,383869,168090,354760,92.42,0.43,0.09,14.66
+Mobile,CM_hindisahayta.in_Education_BTF_responsive_WC2,45874,89,40283,87.81,1.12,0.45,0.04
+Mobile,CM_HINDISAHAYTA_PARENT,3,2,3,100.00,0.00,0.00,0.00
+Mobile,CM_HINDISAHAYTA_ATF_300x250,172,117,170,98.84,0.00,0.17,0.02
+Mobile,CM_hindisahayta.in_Education_Top,53,0,32,60.38,0.00,0.00,0.00
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Desktop,86562,49075,61866,71.47,0.36,0.17,8.48
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"10 Aug, 2021",10777,5108,7339,68.10,1.05,0.21,1.07
+"09 Aug, 2021",10909,5440,7510,68.84,0.92,0.19,1.04
+"08 Aug, 2021",7553,4617,5624,74.46,1.23,0.19,0.88
+"07 Aug, 2021",7582,4482,5515,72.74,2.3,0.16,0.73
+"06 Aug, 2021",8693,5377,6617,76.12,0.8,0.14,0.74
+"05 Aug, 2021",8300,4870,6007,72.37,1.33,0.17,0.83
+"04 Aug, 2021",8699,5078,6269,72.07,1.43,0.19,0.95
+"03 Aug, 2021",9216,5719,6786,73.63,1.34,0.16,0.94
+"02 Aug, 2021",8543,4871,5947,69.61,1.19,0.17,0.82
+"01 Aug, 2021",6290,3513,4252,67.60,2.69,0.14,0.48
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Desktop,CM_gbwa.xyz_Technology_and_Computing_ATF_responsive,7972,6497,7745,97.15,1.09,0.46,2.99
+Desktop,CM_hindisahayta.in_Education_ATF_responsive,12558,10146,11265,89.70,0.44,0.16,1.64
+Desktop,CM_hindisahayta.in_Education_BTF_responsive_WC1,12566,10127,11211,89.22,0.27,0.14,1.39
+Desktop,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC1,7976,4893,7378,92.50,0.33,0.17,0.81
+Desktop,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC2,7969,5305,7148,89.70,0.11,0.13,0.67
+Desktop,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC4,1631,916,1447,88.72,0.11,0.09,0.08
+Desktop,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC3,7979,5087,6708,84.07,0.08,0.11,0.54
+Desktop,CM_hindisahayta.in_Education_BTF_multisize_MBRS,12827,3213,3537,27.57,0.06,0.04,0.13
+Desktop,CM_gbwa.xyz_Technology_and_Computing_BTF_multisize_MBRS,12519,2888,3772,30.13,0.17,0.08,0.23
+Desktop,CM_hindisahayta.in_Education_BTF_responsive_WC2,2562,0,1652,64.48,0.00,0.00,0.00
+Desktop,CM_HINDISAHAYTA_ATF_300x250,3,3,3,100.00,0.00,0.00,0.00
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Tablets,73072,39413,61664,84.39,0.76,0.12,4.81
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"10 Aug, 2021",9320,4693,7643,82.01,2.66,0.15,0.7
+"09 Aug, 2021",8364,4294,6876,82.21,7.08,0.22,0.93
+"08 Aug, 2021",7381,4212,6240,84.54,1.59,0.09,0.36
+"07 Aug, 2021",5946,3379,5100,85.77,4.28,0.08,0.26
+"06 Aug, 2021",6490,3885,5705,87.90,4.44,0.10,0.4
+"05 Aug, 2021",7775,4298,6921,89.02,5.84,0.15,0.65
+"04 Aug, 2021",6642,3549,5619,84.60,2.74,0.12,0.42
+"03 Aug, 2021",7104,3865,6076,85.53,8.52,0.14,0.54
+"02 Aug, 2021",7176,3856,5829,81.23,7.46,0.10,0.37
+"01 Aug, 2021",6874,3382,5655,82.27,1.11,0.05,0.18
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+Tablets,CM_gbwa.xyz_Technology_and_Computing_ATF_responsive,12856,8605,12180,94.74,1.44,0.22,1.87
+Tablets,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC4,2577,1096,2287,88.75,0.36,0.08,0.09
+Tablets,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC2,12862,7868,11801,91.75,0.48,0.09,0.67
+Tablets,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC1,12852,5935,11716,91.16,0.62,0.09,0.54
+Tablets,CM_gbwa.xyz_Technology_and_Computing_BTF_multisize_MBRS,15739,5996,8963,56.95,0.67,0.11,0.65
+Tablets,CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC3,12836,7607,11905,92.75,0.55,0.08,0.62
+Tablets,CM_hindisahayta.in_Education_BTF_responsive_WC1,929,758,878,94.51,0.53,0.21,0.16
+Tablets,CM_hindisahayta.in_Education_ATF_responsive,930,756,877,94.30,0.93,0.24,0.18
+Tablets,CM_hindisahayta.in_Education_Top,1,0,1,100.00,0.00,0.00,0.00
+Tablets,CM_hindisahayta.in_Education_BTF_responsive_WC2,211,0,155,73.46,0.00,0.00,0.00
+Tablets,CM_hindisahayta.in_Education_BTF_multisize_MBRS,1279,792,901,70.45,0.25,0.04,0.03
+"
+","
+"
+"
+","
+"
+"--Device Types--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"Connected TV",1069,456,836,78.20,1.54,0.11,0.05
+"
+","
+"
+--Date--,"--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"10 Aug, 2021",174,64,131,75.29,0,0.16,0.01
+"09 Aug, 2021",41,27,36,87.80,39.06,1.48,0.04
+"08 Aug, 2021",182,90,147,80.77,5.85,0.00,0
+"07 Aug, 2021",146,46,131,89.73,4.39,0.00,0
+"06 Aug, 2021",96,43,71,73.96,0,0.00,0
+"05 Aug, 2021",112,39,97,86.61,0,0.00,0
+"04 Aug, 2021",94,42,76,80.85,7.87,0.00,0
+"03 Aug, 2021",71,44,67,94.37,37.74,0.00,0
+"02 Aug, 2021",68,12,13,19.12,0,0.00,0
+"01 Aug, 2021",85,49,67,78.82,0,0.00,0
+"
+","
+"
+--Devices--,"--Ad Units--","--Ad Requests--","--Ad Impressions--","--Matched Ad Request--",--Coverage--,--CTR--,"--Estimated eCPM--","--Estimated Revenue--"
+"Connected TV",CM_hindisahayta.in_Education_BTF_responsive_WC2,3,0,2,66.67,0.00,0.00,0.00
+"Connected TV",CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC4,35,11,29,82.86,0.00,0.91,0.01
+"Connected TV",CM_hindisahayta.in_Education_BTF_responsive_WC1,23,15,19,82.61,0.00,0.00,0.00
+"Connected TV",CM_hindisahayta.in_Education_BTF_multisize_MBRS,25,13,16,64.00,7.69,0.00,0.00
+"Connected TV",CM_hindisahayta.in_Education_ATF_responsive,23,17,22,95.65,5.88,0.00,0.00
+"Connected TV",CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC3,176,73,146,82.95,0.00,0.00,0.00
+"Connected TV",CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC2,179,76,147,82.12,2.63,0.00,0.00
+"Connected TV",CM_gbwa.xyz_Technology_and_Computing_BTF_responsive_WC1,176,56,135,76.70,1.79,0.00,0.00
+"Connected TV",CM_gbwa.xyz_Technology_and_Computing_BTF_multisize_MBRS,253,119,187,73.91,1.68,0.34,0.04
+"Connected TV",CM_gbwa.xyz_Technology_and_Computing_ATF_responsive,176,76,133,75.57,0.00,0.00,0.00
+"
+","
+"
+"
+","
+"

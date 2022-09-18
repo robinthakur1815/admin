@@ -1,0 +1,105 @@
+<?php
+#Author BY AD
+#error reporting
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(0);
+#required headers
+header("Access-Control-Allow-Origin: *");
+header("Content-Type: application/json; charset=UTF-8");
+header("Access-Control-Allow-Methods: POST");
+header("Access-Control-Max-Age: 3600");
+header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
+header("HTTP/1.1 200 OK");
+#for number format
+ini_set('serialize_precision', 10);
+#Time Zone
+date_default_timezone_set('Asia/Kolkata');
+#include database and object files
+include_once '../../config/connection.php';
+include_once '../../objects/Common.php';
+include_once '../../objects/DashboardPub.php';
+
+#instantiate database and product object
+$database = new Database();
+$db = $database->getConnection();
+$dbMongoDb = $database->getConnectionMongoDb();
+$header = new Common($db);
+$dashAdtype = new DashboardPub($db,$dbMongoDb);
+#get posted data
+$data = json_decode(file_get_contents("php://input"));
+$headers = apache_request_headers();
+preg_match('/Bearer\s(\S+)/', $headers['Authorization'], $matches);
+    $token = $matches[1];
+
+#make sure data is not empty
+if(
+    !empty($data->uniq_id) &&
+    !empty($data->analytics_id) &&
+    !empty($data->range)
+){
+    #set token property values 
+    $header->access_token = trim($token);
+    $header->pub_uniq_id = $data->uniq_id;
+    $result_fun = $header->verifyToken();
+    $stmt_result = $result_fun->get_result();
+    $row = $stmt_result->fetch_array(MYSQLI_ASSOC);
+    $rows = $stmt_result->num_rows;
+    if($rows > 0){
+    
+      #check date range validation
+     if($data->range == "custom"){
+        if($data->strtdate == '' && $data->enddate == ''){
+           #set response code - 422 validation error
+           http_response_code(422);
+  
+           #tell the user
+          echo json_encode(array("message" => "Date range invalid!","status_code"=>422));
+          exit();
+        }
+     }
+     #set Ad type property values
+     
+     $dashAdtype->range = $data->range;
+     $dashAdtype->strtdate = $data->strtdate;
+     $dashAdtype->enddate = $data->enddate;
+     $dashAdtype->analytics_id = $data->analytics_id;
+     $dashAdtype->uniq_id = $data->uniq_id;
+     $result_bench = $dashAdtype->getBenchmark();
+     if(!empty($result_bench)){
+     
+         
+        #set response code - 200 ok
+        http_response_code(200);
+  
+        #tell the user
+        echo json_encode(array("data"=>$result_bench,"status_code"=>200));
+      }else{
+        #set response code - 422 validation error
+        http_response_code(422);
+  
+        #tell the user
+        echo json_encode(array("message" => "No Data Found!","status_code"=>422));
+      }
+
+     }
+     else{
+        #set response code - 422 validation error
+        http_response_code(422);
+  
+        #tell the user
+        echo json_encode(array("message" => "Invalid token","status_code"=>422));
+      }
+}
+ #tell the user data is incomplete
+else{
+  
+    #set response code - 400 bad request
+    http_response_code(400);
+  
+    #tell the user
+    echo json_encode(array("message" => "Unable to get publisher dashboard. Data is incomplete.","status_code"=>400));
+}
+
+
+?>
